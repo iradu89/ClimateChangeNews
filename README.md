@@ -5,4 +5,4 @@ As the name suggests, the app is about Climate news. It shows the newest news re
 In this project I learned to:
 - Handle error cases gracefully
 - Update information regularly
-- Do netowrk operations independent of the Activity lifecycle
+- Do network operations independent of the Activity lifecycle
